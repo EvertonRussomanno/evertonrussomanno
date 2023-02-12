@@ -14,6 +14,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 -->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonRussomanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRussomanno&layout=compact)](https://github.com/EvertonRussomanno/github-readme-stats)
 
