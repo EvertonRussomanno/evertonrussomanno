@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Analise e Desenvolvimentod de Sistemas
+- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <picture>
