@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
-- Em transição de carreira
-- Estudando Java, Spring Framework, Bancos de dados e mais umas coisas.
+- 🌱 Proficional em transição de carreira
+- 🌱 Estudando Java, Spring Framework, Bancos de dados e mais umas coisas.
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <picture>
