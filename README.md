@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
-- 🌱 Proficional em transição de carreira
+- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas.
+- 🌱 Proficional em transição de carreira.
 - 🌱 Estudando Java, Spring Framework, Bancos de dados e mais umas coisas.
+- 🔭 Em busca de minha primeira oportunidade de mostrar meu potencial.
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <picture>
@@ -16,13 +17,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRussomanno&layout=compact)](https://github.com/EvertonRussomanno/github-readme-stats)
+<!--
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonRussomanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRussomanno&layout=compact)](https://github.com/EvertonRussomanno/github-readme-stats)
 
-<!--
+
+
 **EvertonRussomanno/evertonrussomanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
