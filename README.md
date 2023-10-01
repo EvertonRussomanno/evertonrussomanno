@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
+- Em transição de carreira
+- Estudando Java, Spring Framework, Bancos de dados e mais umas coisas.
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <picture>
