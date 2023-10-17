@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas.
-- 🌱 Proficional em transição de carreira.
+- 🌱 Profissional em transição de carreira.
 - 🌱 Estudando Java, Spring Framework, Bancos de dados e mais umas coisas.
 - 🔭 Em busca de minha primeira oportunidade de mostrar meu potencial.
 <!--
